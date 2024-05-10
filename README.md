@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Aim%20for%20the%20stars!&fontSize=40&animation=fadeIn&fontAlignY=30&descAlignY=51&descAlign=62"/>
+</p>
 
 <!--
 **07717/07717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
